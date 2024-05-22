@@ -5,4 +5,5 @@ Este estudio, cuyos datos utilizados han provenido fundamentalmente de la PWT (P
 En este proyecto se ha realizado una página web, con una aplicación web interactiva de Streamlit, y una presentación en Canva.
 
 - **Web**: https://horastrabajadas.webnode.es/analisis/
+- **Aplicación Streamlit** (la de la Web no está habilitada): https://horas-trabajadas.streamlit.app/
 - **Canva**: https://www.canva.com/design/DAFB4SI8MI0/OY6KzBXiUogooWttROiGFg/view?utm_content=DAFB4SI8MI0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
